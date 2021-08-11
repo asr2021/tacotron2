@@ -1,0 +1,30 @@
+wavs/LJ001-0001.wav|Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition
+wavs/LJ001-0002.wav|in being comparatively modern.
+wavs/LJ001-0003.wav|For although the Chinese took impressions from wood blocks engraved in relief for centuries before the woodcutters of the Netherlands, by a similar process
+wavs/LJ001-0004.wav|produced the block books, which were the immediate predecessors of the true printed book,
+wavs/LJ001-0005.wav|the invention of movable metal letters in the middle of the fifteenth century may justly be considered as the invention of the art of printing.
+wavs/LJ001-0006.wav|And it is worth mention in passing that, as an example of fine typography
+wavs/LJ001-0007.wav|the earliest book printed with movable types, the Gutenberg, or "forty-two line Bible" of about 1455,
+wavs/LJ001-0008.wav|has never been surpassed..wav|has never been surpassed.
+wavs/LJ001-0009.wav|Printing, then, for our purpose, may be considered as the art of making books by means of movable types.
+wavs/LJ001-0010.wav|Now, as all books not primarily intended as picture-books consist principally of types composed to form letterpress,
+wavs/LJ001-0011.wav|it is of the first importance that the letter used should be fine in form;
+wavs/LJ001-0012.wav|especially as no more time is occupied, or cost incurred, in casting, setting, or printing beautiful letters
+wavs/LJ001-0013.wav|than in the same operations with ugly ones.
+wavs/LJ001-0014.wav|And it was a matter of course that in the Middle Ages, when the craftsmen took care that beautiful form should always be a part of their productions whatever they were,
+wavs/LJ001-0015.wav|the forms of printed letters should be beautiful, and that their arrangement on the page should be reasonable and a help to the shapeliness of the letters themselves.
+wavs/LJ001-0016.wav|The Middle Ages brought calligraphy to perfection, and it was natural therefore
+wavs/LJ001-0017.wav|that the forms of printed letters should follow more or less closely those of the written character, and they followed them very closely.
+wavs/LJ001-0018.wav|The first books were printed in black letter, i.e. the letter which was a Gothic development of the ancient Roman character,
+wavs/LJ001-0019.wav|and which developed more completely and satisfactorily on the side of the "lower-case" than the capital letters;
+wavs/LJ001-0020.wav|the "lower-case" being in fact invented in the early Middle Ages.
+wavs/LJ001-0021.wav|The earliest book printed with movable type, the aforesaid Gutenberg Bible, is printed in letters which are an exact imitation
+wavs/LJ001-0022.wav|of the more formal ecclesiastical writing which obtained at that time; this has since been called "missal type,"
+wavs/LJ001-0023.wav|and was in fact the kind of letter used in the many splendid missals, psalters, etc., produced by printing in the fifteenth century.
+wavs/LJ001-0024.wav|But the first Bible actually dated (which also was printed at Maintz by Peter Schoeffer in the year 1462)
+wavs/LJ001-0025.wav|imitates a much freer hand, simpler, rounder, and less spiky, and therefore far pleasanter and easier to read.
+wavs/LJ001-0026.wav|On the whole the type of this book may be considered the ne-plus-ultra of Gothic type,
+wavs/LJ001-0027.wav|especially as regards the lower-case letters; and type very similar was used during the next fifteen or twenty years not only by Schoeffer,
+wavs/LJ001-0028.wav|but by printers in Strasburg, Basle, Paris, Lubeck, and other cities.
+wavs/LJ001-0029.wav|But though on the whole, except in Italy, Gothic letter was most often used
+wavs/LJ001-0030.wav|a very few years saw the birth of Roman character not only in Italy, but in Germany and France.
